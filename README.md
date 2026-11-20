@@ -35,7 +35,6 @@ Je m'intéresse de plus en plus aux **agents IA**, et j'apprends le **software e
 
 ---
 
-## 📊 Statistiques GitHub
 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie246&layout=compact&langs_count=6" />
