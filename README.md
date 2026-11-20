@@ -11,7 +11,7 @@
 
 Étudiante en informatique, spécialisée en data science. J'ai d'abord travaillé sur le terrain, en collecte et supervision de données pour des campagnes de santé publique. J'y ai appris qu'une analyse n'est fiable que si les données le sont.
 
-Depuis, j'ai travaillé sur des projets concrets : une plateforme de support client avec Flask qui catégorise les tickets et suggère des réponses, de la prévision de ventes par séries temporelles, de la détection de fraude sur des transactions mobile money, et des dashboards Power BI et des pipelines ETL avec Talend Open Studio.
+Depuis, j'ai travaillé sur des projets concrets : une plateforme de support client avec Flask qui catégorise les tickets et suggère des réponses, de la prévision de ventes par séries temporelles, de la détection de fraude sur des transactions mobile money, des dashboards Power BI et des pipelines ETL avec Talend Open Studio.
 
 Je m'intéresse de plus en plus aux **agents IA**, et j'apprends le **software engineering** pour livrer des applications complètes plutôt que des notebooks isolés. Mes projets récents explorent le RAG et les agents, dont un assistant IA mis en ligne avec Gradio.
 
