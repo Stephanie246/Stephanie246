@@ -2,8 +2,8 @@
 
 **Data Science · Machine Learning · Business Intelligence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ton_nom-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-LIEN)
-[![Email](https://img.shields.io/badge/Email-ton.adresse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton.adresse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ton_nom-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sorel-stephanie-t-1b3801238?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-ton.adresse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephye2019@gmail.com)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Étudiante en informatique, spécialisée en data science. J'ai d'abord travaillé sur le terrain, en collecte et supervision de données pour des campagnes de santé publique. J'y ai appris qu'une analyse n'est fiable que si les données le sont.
 
-Depuis, j'ai travaillé sur des projets concrets : une plateforme de support client avec Flask qui catégorise les tickets et suggère des réponses, de la prévision de ventes par séries temporelles, de la détection de fraude sur des transactions mobile money, et des dashboards Power BI.
+Depuis, j'ai travaillé sur des projets concrets : une plateforme de support client avec Flask qui catégorise les tickets et suggère des réponses, de la prévision de ventes par séries temporelles, de la détection de fraude sur des transactions mobile money, et des dashboards Power BI et des pipelines ETL avec Talend Open Studio.
 
 Je m'intéresse de plus en plus aux **agents IA**, et j'apprends le **software engineering** pour livrer des applications complètes plutôt que des notebooks isolés. Mes projets récents explorent le RAG et les agents, dont un assistant IA mis en ligne avec Gradio.
 
@@ -28,6 +28,7 @@ Je m'intéresse de plus en plus aux **agents IA**, et j'apprends le **software e
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Talend](https://img.shields.io/badge/TALEND-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -37,8 +38,8 @@ Je m'intéresse de plus en plus aux **agents IA**, et j'apprends le **software e
 ## 📊 Statistiques GitHub
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephTess&layout=compact&langs_count=6" />
-  <img height="180" src="https://streak-stats.demolab.com?user=StephTess" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie246&layout=compact&langs_count=6" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Stephanie246" />
 </p>
 
 ---
