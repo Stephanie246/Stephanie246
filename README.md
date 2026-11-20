@@ -2,8 +2,8 @@
 
 **Data Science · Machine Learning · Business Intelligence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ton_nom-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sorel-stephanie-t-1b3801238?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/Email-ton.adresse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephye2019@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sorel_Stephanie_Tchemmoe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorel-stephanie-t-1b3801238)
+[![Email](https://img.shields.io/badge/Email-stephye2019@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephye2019@gmail.com)
 
 ---
 
